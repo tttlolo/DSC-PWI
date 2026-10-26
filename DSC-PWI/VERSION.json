@@ -1,0 +1,9 @@
+{
+  "name": "DSC Spatiotemporal Viewer",
+  "version": "1.0.0",
+  "releaseDate": "2026-10-26",
+  "entry": "DSC_Viewer_V1.html",
+  "networkRequired": false,
+  "embeddedPatientData": false,
+  "sha256": "4106e2461d8abc7abff5bcbe879f8f3aeda2f3e3c7a4a214afab682c295919ae"
+}
